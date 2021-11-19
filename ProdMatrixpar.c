@@ -1,5 +1,4 @@
 
-GNU nano 5.9         produitmatrixP.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
