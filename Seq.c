@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#define n 4
+#define n 8
 
 int main(){
 
